@@ -2,6 +2,7 @@
 new Swiper(".swiper-container", {
     speed: 400,
     spaceBetween: 100,
+    effect: 'flip',
     //pagination
     pagination: {
         el: '.swiper-pagination',
